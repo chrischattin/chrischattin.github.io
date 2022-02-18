@@ -6,4 +6,4 @@ I am a part time Ruby on Rails consultant. I work on my own projects and with ve
 
 I also fly the Pilatus PC-12 as a contract commercial pilot.
 
-Feel free to contact me at chrischattin (at) gmail (dot) com, or @chrischattin on Twitter.
+Feel free to contact me at chrischattin (at) gmail (dot) com.
