@@ -8,4 +8,4 @@ I also fly the Pilatus PC-12NG as a contract pilot.
 
 Contact me at chrischattin (at) gmail (dot) com.
 
-[testeroo](/test)
+[testeroo](/test.md)
