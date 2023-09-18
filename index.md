@@ -1,9 +1,9 @@
 # About Me
 
-Good Day!
+Hello!
 
-I am a part time Ruby on Rails consultant. I work on my own projects and with very early startups to build MVP's and find product market fit.
+I write Ruby on Rails apps part-time. I'm good at quickly taking projects from idea to first paying customer.
 
-I also fly the Pilatus PC-12 as a contract commercial pilot.
+I also fly the Pilatus PC-12NG as a contract pilot.
 
-Feel free to contact me at chrischattin (at) gmail (dot) com.
+Contact me at chrischattin (at) gmail (dot) com.
